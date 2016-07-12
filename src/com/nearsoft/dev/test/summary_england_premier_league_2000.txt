@@ -1,0 +1,21 @@
+#	Team	Won	Drawn	Lost
+1	Manchester Utd	24	8	6
+2	Liverpool	20	9	9
+3	Leeds	20	8	10
+4	Arsenal	19	10	8
+5	Ipswich	20	6	12
+6	Sunderland	15	12	11
+7	Chelsea	15	11	9
+8	Southampton	14	10	14
+9	Newcastle	14	9	14
+10	Aston Villa	12	14	10
+11	Charlton	13	8	11
+12	Tottenham	12	10	14
+13	Leicester	13	6	18
+14	West Ham	10	13	15
+15	Derby	10	12	16
+16	Middlesbrough	8	15	14
+17	Everton	10	9	17
+18	Manchester City	8	10	20
+19	Coventry	8	9	20
+20	Bradford	5	11	22
